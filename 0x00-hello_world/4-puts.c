@@ -1,6 +1,11 @@
 #include <stdio.h>
 /**
+ * Hello C World
+ * C is cool
+ *
+ *
  * main - main entry point
+ *
  * return : always 0 (Success)
  * */
 int main(void)
