@@ -6,6 +6,8 @@
  * @str: string - (malloc'ed string)
  * @len: length of the string
  * @next: points to the next node
+ * for Holberton project
+
  *
  * Description: singly linked list node structure
  */
